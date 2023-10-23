@@ -1,1 +1,16 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: green;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.heart-class,
+.diamond-class {
+  color: red;
+}
+
+.spade-class,
+.club-class {
+  color: black;
+}
